@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ikony/arrow_refresh.png</file>
+        <file>ikony/cancel.png</file>
+        <file>ikony/computer.png</file>
+        <file>ikony/cross.png</file>
+        <file>ikony/disk.png</file>
+        <file>ikony/door_open.png</file>
+        <file>ikony/drink.png</file>
+        <file>ikony/email.png</file>
+        <file>ikony/error.png</file>
+        <file>ikony/folder.png</file>
+        <file>ikony/group.png</file>
+        <file>ikony/help.png</file>
+        <file>ikony/information.png</file>
+        <file>ikony/tick.png</file>
+        <file>ikony/page_white.png</file>
+        <file>ikony/accept.png</file>
+        <file>ikony/add.png</file>
+        <file>ikony/controller.png</file>
+        <file>ikony/delete.png</file>
+        <file>ikony/award_star_bronze_3.png</file>
+        <file>ikony/award_star_gold_3.png</file>
+        <file>ikony/award_star_silver_3.png</file>
+        <file>ikony/medal_bronze_3.png</file>
+        <file>ikony/medal_gold_3.png</file>
+        <file>ikony/medal_silver_3.png</file>
+        <file>ikony/report_user.png</file>
+        <file>ikony/sport_basketball.png</file>
+        <file>ikony/sport_football.png</file>
+        <file>ikony/sport_shuttlecock.png</file>
+    </qresource>
+</RCC>

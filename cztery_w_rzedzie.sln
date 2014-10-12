@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "cztery_w_rzedzie", "cztery_w_rzedzie.exe", "{2E8EF27C-735F-4050-8179-64B14AC727E0}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = D:\Projekty\Stare projekty\soft\cztery_w_rzedzie\cztery_w_rzedzie.exe
+		RemoteMachine = KONRADZDANOWICZ
+		StartingDirectory = D:\Projekty\Stare projekty\soft\cztery_w_rzedzie
+		Environment = Default
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E8EF27C-735F-4050-8179-64B14AC727E0}.Debug|x86.ActiveCfg = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
